@@ -1,0 +1,9 @@
+# ignore .venv and .env
+.venv
+.env
+
+# ignore .vscode
+.vscode
+
+# ignore DS_Store
+.DS_Store

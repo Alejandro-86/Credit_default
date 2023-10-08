@@ -7,3 +7,6 @@
 
 # ignore DS_Store
 .DS_Store
+
+# ignore csv
+*.csv

@@ -44,6 +44,14 @@ The project is organized into the following directories and files:
 
 3. Dependencies can be updated using `pip freeze > requirements.txt`.
 
+TODO: Research for 3 models to do classification on this problem
+TODO: Research for 3 models to do regression on this problem
+TODO: data preprocessing
+TODO: clean data
+TODO: feature engineering
+TODO: model training
+TODO: model evaluation
+
 
 4. Run the Jupyter Notebooks in the `notebooks/` directory to reproduce the project results.
 

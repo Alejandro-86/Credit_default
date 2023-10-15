@@ -10,3 +10,7 @@
 
 # ignore csv
 *.csv
+
+# ignore big files
+*.joblib
+*.keras
